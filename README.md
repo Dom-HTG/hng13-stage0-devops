@@ -65,7 +65,7 @@ cd hng13-stage0-devops
 ### 5. Copy the webpage into the NGINX web root
 ```bash
 sudo cp index.html /var/www/html/
-suco systemctl reload nginx
+sudo systemctl reload nginx
 ```
 Visit http://35.223.80.179  to confirm page is live.
 
