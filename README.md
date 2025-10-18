@@ -25,7 +25,7 @@ It serves as a practical DevOps exercise designed to simulate real-world deploym
 
 **Server Type:** GCP Compute Engine (e2-micro, Ubuntu)  
 **Server Zone:** us-central1-a  
-**Server IP:** 35.223.80.179 [reachable at: http://http://35.223.80.179]
+**Server IP:** 35.223.80.179 [reachable at: http://35.223.80.179]
 **Web Server:** NGINX  
 **Deployed Webpage:** `index.html`
 
